@@ -1,0 +1,9 @@
+{"config_file":[
+    {"Sighthound_API_Key":""},
+    {"Outgoing_Webhook_Address":"http://localhost:PORT/Webhook"},
+    {"Incoming_Webhook_Port_Number":5050},
+    {"API_Token":"1234567890abcdefg"},
+    {"Camera_1_ID":""},
+    {"Camera_2_ID":""}
+    ]
+}
